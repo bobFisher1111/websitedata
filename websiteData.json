@@ -12,6 +12,10 @@
       "is_hidden": false,
       "series_id": 1,
       "is_review": true,
+      "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": {
         "gameplay": 0,
         "visuals": 2,
@@ -36,6 +40,10 @@
       "is_hidden": false,
       "series_id": 1,
       "is_review": true,
+       "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": {
         "gameplay": 0,
         "visuals": 2,
@@ -60,6 +68,10 @@
       "is_hidden": false,
       "series_id": 1,
       "is_review": false,
+       "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": null,
       "read": {
         "wordcount": "10 words",
@@ -78,6 +90,10 @@
       "is_hidden": false,
       "series_id": 1,
       "is_review": false,
+      "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": null,
       "read": {
         "wordcount": "10 words",
@@ -96,6 +112,10 @@
       "is_hidden": false,
       "series_id": 1,
       "is_review": false,
+      "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": null,
       "read": {
         "wordcount": "10 words",
@@ -114,6 +134,10 @@
       "is_hidden": false,
       "series_id": null,
       "is_review": false,
+      "references": [
+        "www.google.com",
+        "www.ign.com"
+      ],
       "review": null,
       "read": {
         "wordcount": "10 words",
